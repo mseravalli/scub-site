@@ -2,11 +2,11 @@
 
 = Todo list =
 
-item -> to be done \\
+item -> to be done 
 
-[item]-> more or less done \\
+[item] -> more or less done 
 
-~~item~~ -> completed! \\
+~~item~~ -> completed! 
 
   * ~~spostare header sotto~~
   * ~~rifare il fondo della pagina~~
