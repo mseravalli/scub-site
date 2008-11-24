@@ -10,7 +10,7 @@ item -> to be done
 
   * ~~spostare header sotto~~
   * ~~rifare il fondo della pagina~~
-  * [todo_list|cambiare le icone dei feed rss e spostarle a destra]
+  * [todo_list]
   * capire perchè le non si riesce ad accedere all'inserimento commenti
   * inserire le mappe in un iframe
   * <u>pagina nera del sito degli snowdays</u>
