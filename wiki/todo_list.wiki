@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary everything that has to be done
 
 = Todo list =
 
@@ -10,4 +10,3 @@
   * pagina nera del sito degli snowdays
   * mettere a posto external links - facebook & uniparty
   * mettere a posto la pagina degli sport
-
