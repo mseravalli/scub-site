@@ -15,7 +15,7 @@ item -> to be done
   * inserire le mappe in un iframe
   * <u>pagina nera del sito degli snowdays</u>
   * mettere a posto external links - facebook & uniparty
-  * [mettere a posto la pagina degli sport]
+  * [mettere_a_posto_la_pagina_degli_sport mettere a posto la pagina degli sport]
 
 
 == cambiare le icone dei feed rss e spostarle a destra ==
