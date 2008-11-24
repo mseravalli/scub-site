@@ -13,6 +13,6 @@ item -> to be done
   * cambiare le icone dei feed rss e spostarle a destra
   * capire perchè le non si riesce ad accedere all'inserimento commenti
   * inserire le mappe in un iframe
-  * [ pagina nera del sito degli snowdays ]
+  * [pagina nera del sito degli snowdays]
   * mettere a posto external links - facebook & uniparty
   * mettere a posto la pagina degli sport
