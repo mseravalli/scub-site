@@ -15,7 +15,7 @@ item -> to be done
   * capire perchè le non si riesce ad accedere all'inserimento commenti
   * inserire le mappe in un iframe
   * <u>pagina nera del sito degli snowdays</u>
-  *  * ~~messo a posto il video del 2006~~
+    * ~~messo a posto il video del 2006~~
   * mettere a posto external links - facebook & uniparty
   * mettere a posto la pagina degli sport
 
