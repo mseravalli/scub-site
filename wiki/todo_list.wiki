@@ -11,7 +11,7 @@ item -> to be done
   * ~~spostare header sotto~~
   * ~~rifare il fondo della pagina~~
   * cambiare le icone dei feed rss e spostarle a destra
-  * fare in modo che il sito crei i feed, che ora non ci sono =(
+  * ~~fare in modo che il sito crei i feed, che ora non ci sono =(~~
   * capire perchè le non si riesce ad accedere all'inserimento commenti
   * inserire le mappe in un iframe
   * <u>pagina nera del sito degli snowdays</u>
